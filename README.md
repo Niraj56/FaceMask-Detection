@@ -48,8 +48,9 @@ pip install PyQt5
 ```
 
 ## How to Run
-1. For the python script,	> python Face_mask_detector.py 
-2. Or, simply execute the Face_mask_detector.exe
+1. For the python script,	> ```python Face_mask_detector.py```
+2. Or, simply execute the ```Face_mask_detector.exe```
 
 > **Note**
-> I have also made the web version of this project, which I will be uploading soon. Peace Out!!
+> If the camera does not turn off even after closing program follow these steps: Enter this in the cmd > ```setx OPENCV_VIDEOIO_PRIORITY_MSMF 0```
+>  and Restart the pc
