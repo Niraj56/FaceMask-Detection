@@ -51,5 +51,5 @@ pip install PyQt5
 1. For the python script,	> python Face_mask_detector.py 
 2. Or, simply execute the Face_mask_detector.exe
 
-
-
+> **Note**
+> I have also made the web version of this project, which I will be uploading soon. Peace Out!!
